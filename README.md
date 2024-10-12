@@ -1,5 +1,5 @@
 # em-dat-case-study
-Analyse des données EM-DAT sur les catastrophes naturelles dans le monde
+Analyse des données EM-DAT sur les catastrophes naturelles dans le monde.
 ## Contexte
 Mission Data express de 4 jours, effectuée en équipe, et présentée en septembre 2024, dans le cadre de la préparation à la certification Data Analyst.
 
