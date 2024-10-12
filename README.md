@@ -64,7 +64,7 @@ Cependant cette période est à prendre avec précaution, en effet, la base des 
 
 ## Conclusions
 * 2000-2021: Une tendance assez stable du nombre de catathrophes naturelles, seules quelques années particulières avec de pics de catastrophes observées
-* Sur une période plus large 1980-2021: Augmentation des phénomènes météo (295=> 403), en particulier inondations & tempêtes
+* Sur une période plus large 1980-2021: Augmentation des phénomènes météo (134=> 403), en particulier inondations & tempêtes
 * Cependant, les données d’avant 1990 doivent être étudiées avec précaution en raison de l'existence du biais introduit par le développement des technologies de communication. En effet, les catastropes peuvent etre signalées plus facilement. 
 
 ## Références:
