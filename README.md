@@ -24,7 +24,7 @@ Mais c'est La Birmanie (le Myanmar) le pays avec les catatrophes naturelles les 
 
 ### Coûts occasionnés par les dégâts
 La catastrophe naturelle ayant couté le plus cher a été enregistré sur l'île de Saint Martin dans les caraïbes.
-> Le 6 septembre 2017, l'ouragan Irma, le plus puissant jamais enregistré dans l'Atlantique, ravageait cette île des Antilles.
+> Le 6 septembre 2017, l'ouragan Irma, le plus puissant jamais enregistré dans l'Atlantique, ravageait cette île des Antilles.[5]
 
 
 Sinon, c'est plutôt dans le continent américain que les catastrophes ont côuté le plus d'argent sur la période et c'est aussi le continent où les catastrophes occasionnent le plus de coûts en moyenne.
@@ -72,6 +72,7 @@ Cependant cette période est à prendre avec précaution, en effet, la base des 
 2. https://fr.statista.com/infographie/30249/nombre-catastrophes-naturelles-evenements-meteo-extremes-recenses-par-dans-le-monde-par-type/
 3. https://climate-adapt.eea.europa.eu/fr/metadata/portals/em-dat-the-international-disaster-database-year-of-launch
 4. https://www.climato-realistes.fr/les-desastres-naturels-ne-sont-ni-plus-frequents-ni-plus-devastateurs/
+5. https://www.lemonde.fr/planete/article/2023/09/30/apres-l-ouragan-irma-l-ile-de-saint-martin-toujours-vulnerable_6191707_3244.html#:~:text=Le%206%20septembre%202017%2C%20l,deux%2C%20rendant%20difficile%20la%20reconstruction.
 
 
 
